@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cloud-cost-calculator .iml" filepath="$PROJECT_DIR$/.idea/cloud-cost-calculator .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AWS-Azure-cloud-cost-calculator.iml" filepath="$PROJECT_DIR$/.idea/AWS-Azure-cloud-cost-calculator.iml" />
     </modules>
   </component>
 </project>
