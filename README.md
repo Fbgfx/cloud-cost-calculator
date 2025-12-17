@@ -1,5 +1,11 @@
 📁 Project 3: Cloud Cost Calculator & Estimator
+
+
+
 💰 Overview
+
+
+
 The Cloud Cost Calculator estimates cloud infrastructure costs based on user-selected services and usage patterns. The project highlights how cost governance is inseparable from cloud security and operational maturity.
 
 🎯 Objectives
@@ -118,6 +124,7 @@ Preventive controls
 
 
 Organization-wide guardrails
+
 
 
 
